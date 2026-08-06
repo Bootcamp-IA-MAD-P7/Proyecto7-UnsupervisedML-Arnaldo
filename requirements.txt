@@ -1,0 +1,15 @@
+pandas
+numpy
+seaborn
+matplotlib
+scikit-learn
+scipy
+jupyter
+nbformat
+nbclient
+umap-learn
+hdbscan
+mlxtend
+reportlab
+pypdf
+pytest

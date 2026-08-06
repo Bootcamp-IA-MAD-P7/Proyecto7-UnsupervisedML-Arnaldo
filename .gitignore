@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+.pytest_cache/
+tmp/
+output/pdf/
+docs/
+scripts/
+tests/
+IA-Project-Unsupervised-ML/.jupyter-config/
+IA-Project-Unsupervised-ML/.jupyter-data/
+IA-Project-Unsupervised-ML/.ipython/
+*.pyc
